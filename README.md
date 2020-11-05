@@ -2,16 +2,16 @@
 
 
 ###### Hi , I'm Reza Sadaghiani 
-> Since 2008 I started programming as a hobby.
-> lover revolutionary ideas and mindset Linux, Open Source and Blockchain . 
+    Since 2008 I started programming as a hobby.
+    lover revolutionary ideas and mindset Linux, Open Source and Blockchain . 
 >
 + Fullstack developer  |  **Blockchain** , Web 
-+ language |  **go** , ts , py , cpp 
-+ NoSQL | mongo
-+ Front-End | react , angular , material design
++ Language |  **Go** , TS , Py , C++ 
++ NoSQL | Mongo
++ Front-End | React , Angular , Material Design
 
 #####  Experience 
-+ DApp | Create Ethereum **wallet**  
++ DApp | Create Ethereum **Wallet**  
 + App | **MarketPlace** 
 
 <br />
