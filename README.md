@@ -4,7 +4,8 @@
 ###### Hi , I'm Reza Sadaghiani 
     Since 2008 I started programming as a hobby.
     lover revolutionary ideas and mindset Linux, Open Source and Blockchain . 
->
+    #freedom
+
 + Fullstack developer  |  **Blockchain** , Web 
 + Language |  **Go** , TS , Py , C++ 
 + NoSQL | Mongo
