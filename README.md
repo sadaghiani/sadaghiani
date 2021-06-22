@@ -28,4 +28,4 @@
 [linkedin]: https://www.linkedin.com/in/sadaghiani-reza
 [gmail]: mailto:sadaghiani.reza@gmail.com
 [whatsapp]:https://wa.me/00989366644232
-[skype]: https://join.skype.com/invite/xXqzuzCnCaKq
+[skype]: https://join.skype.com/N5ljhDIUYdmB
