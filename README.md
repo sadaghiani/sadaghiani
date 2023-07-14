@@ -8,7 +8,7 @@
     A particle in the galaxy that wants to learn and know more ...
     
     Since 2008 I started programming as a hobby. lover revolutionary mindset Linux, Open Source and Blockchain. 
-    Now, I capable in financial software development, blockchain, exchange and private cloud.
+    Now, I capable in financial software development, blockchain, exchange and cloud platform.
     
     #freedom
 
